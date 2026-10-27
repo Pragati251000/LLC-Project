@@ -1,0 +1,142 @@
+
+========== CANTEEN RECEIPT ==========
+Vadapav x 24 = Rs. 480
+Total Amount: Rs. 480
+=====================================
+
+========== CANTEEN RECEIPT ==========
+Samosa x 3 = Rs. 45
+Total Amount: Rs. 45
+=====================================
+
+========== CANTEEN RECEIPT ==========
+Tea x 3 = Rs. 30
+Total Amount: Rs. 30
+=====================================
+
+========================================
+COLLEGE CANTEEN RECEIPT
+Receipt No: 20261019232945
+Date: 19-10-2026 11:29 PM
+Masala Dosa x 4 = Rs. 240
+Idli Sambar x 2 = Rs. 80
+Mysore Dosa x 1 = Rs. 65
+Veg Manchurian x 4 = Rs. 280
+Schezwan Noodles x 4 = Rs. 320
+Lemon Juice x 6 = Rs. 150
+French Fries x 4 = Rs. 200
+Total Amount: Rs. 1335
+========================================
+
+========================================
+COLLEGE CANTEEN RECEIPT
+Receipt No: 20261020191216
+Date: 20-10-2026 07:12 PM
+Masala Dosa x 4 = Rs. 240
+Uttapam x 5 = Rs. 250
+Schezwan Noodles x 5 = Rs. 400
+Total Amount: Rs. 890
+========================================
+
+========================================
+COLLEGE CANTEEN RECEIPT
+Receipt No: 20261020191238
+Date: 20-10-2026 07:12 PM
+Orange Juice x 1 = Rs. 40
+Total Amount: Rs. 40
+========================================
+
+========================================
+COLLEGE CANTEEN RECEIPT
+Receipt No: 20261021101337
+Date: 21-10-2026 10:13 AM
+Masala Dosa x 3 = Rs. 180
+Veg Hakka Noodles x 2 = Rs. 140
+Cheese Sandwich x 1 = Rs. 60
+Veg Pizza x 1 = Rs. 100
+French Fries x 2 = Rs. 100
+Samosa x 2 = Rs. 30
+Total Amount: Rs. 610
+========================================
+
+========================================
+COLLEGE CANTEEN RECEIPT
+Receipt No: 20261021101357
+Date: 21-10-2026 10:13 AM
+French Fries x 1 = Rs. 50
+Total Amount: Rs. 50
+========================================
+
+========================================
+COLLEGE CANTEEN RECEIPT
+Receipt No: 20261021101523
+Date: 21-10-2026 10:15 AM
+Medu Vada x 1 = Rs. 35
+Paneer Chilli x 1 = Rs. 100
+Total Amount: Rs. 135
+========================================
+
+========================================
+COLLEGE CANTEEN RECEIPT
+Receipt No: 20261021101632
+Date: 21-10-2026 10:16 AM
+Masala Dosa x 1 = Rs. 60
+Plain Dosa x 1 = Rs. 40
+Mysore Dosa x 1 = Rs. 65
+Total Amount: Rs. 165
+========================================
+
+========================================
+COLLEGE CANTEEN RECEIPT
+Receipt No: 20261027105437
+Date: 27-10-2026 10:54 AM
+Masala Dosa x 3 = Rs. 180
+Gobi Manchurian x 3 = Rs. 240
+Mango Milkshake x 4 = Rs. 240
+French Fries x 4 = Rs. 200
+Total Amount: Rs. 860
+========================================
+
+========================================
+COLLEGE CANTEEN RECEIPT
+Receipt No: 20261027105443
+Date: 27-10-2026 10:54 AM
+Masala Dosa x 3 = Rs. 180
+Total Amount: Rs. 180
+========================================
+
+========================================
+COLLEGE CANTEEN RECEIPT
+Receipt No: 20261027114639
+Date: 27-10-2026 11:46 AM
+Cheese Sandwich x 4 = Rs. 240
+Total Amount: Rs. 240
+========================================
+
+========================================
+COLLEGE CANTEEN RECEIPT
+Receipt No: 20261027122620
+Date: 27-10-2026 12:26 PM
+Masala Dosa x 3 = Rs. 180
+Uttapam x 4 = Rs. 200
+Cheese Sandwich x 4 = Rs. 240
+Total Amount: Rs. 620
+========================================
+
+========================================
+COLLEGE CANTEEN RECEIPT
+Receipt No: 20261027150528
+Date: 27-10-2026 03:05 PM
+Masala Dosa x 1 = Rs. 60
+Uttapam x 1 = Rs. 50
+Total Amount: Rs. 110
+========================================
+
+========================================
+COLLEGE CANTEEN RECEIPT
+Receipt No: 20261027160054
+Date: 27-10-2026 04:00 PM
+Masala Dosa x 3 = Rs. 180
+Gobi Manchurian x 2 = Rs. 160
+Total Amount: Rs. 340
+========================================
