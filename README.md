@@ -1,0 +1,2 @@
+# LLC-Project
+The College Canteen Billing System is a web-based application developed using Python and Flask to simplify canteen billing. It displays food items with prices, calculates the total bill based on selected items and quantities, generates receipts, and saves billing details in a text file. Using HTML and CSS for the interface, the system reduces manual errors, saves time, and makes billing easier and more efficient.
